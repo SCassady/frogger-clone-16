@@ -7,7 +7,7 @@ Frogger '16 is a Frogger clone forked from the Udacity Front-End Nanodegree proj
 
 Simply download this repository, and open index.html in a web browser to play the game.
 
-## 2.) Playing:
+## 2.) How to play:
 
 Use the arrow keys to move your character. Press Escape to pause the game at any time. Press Enter/Escape to navigate the menu.
 
