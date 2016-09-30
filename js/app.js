@@ -23,7 +23,7 @@ var GameStateEnum = {
   VICTORY: 4,
   LOSS: 5,
   TIMEDOVER: 6,
-  PAUSED: 7,
+  PAUSED: 7
 };
 var timedMode;
 var startingLanesY = [48, 131, 214, 297];
